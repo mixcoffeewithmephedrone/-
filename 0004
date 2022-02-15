@@ -1,0 +1,6 @@
+def chislo(a):
+    last_chislo = 9 - a
+    return print(a, 9, last_chislo, sep='')
+ 
+ 
+chislo(int(input()))
